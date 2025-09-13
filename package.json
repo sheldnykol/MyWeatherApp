@@ -1,5 +1,5 @@
 {
-  "homepage": "http://sheldnykol.github.io/MyWeatherApp",
+  "homepage": ".",
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
@@ -24,8 +24,7 @@
     "deploy": "gh-pages -d build -f",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "postinstall": "npm install react-scripts"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
